@@ -1,0 +1,17 @@
+{
+  "name": "Holography Bench",
+  "short_name": "Holo Bench",
+  "description": "Lensless inline digital holographic microscope simulator with a WebGPU engine and CPU fallback.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#161b21",
+  "theme_color": "#161b21",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
